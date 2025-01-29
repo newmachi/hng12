@@ -17,7 +17,6 @@ body {
     text-align: center;
     transition: transform 0.2s;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: oblique;
 }
 
 .profile-card:hover {
